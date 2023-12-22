@@ -461,9 +461,13 @@
 				
 			};
 
-				
+			var still={
+
+			}
+
+
 			puzInit.init();
-	
+
 							
 	}
 	
